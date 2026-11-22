@@ -40,6 +40,10 @@ Each backup gets its own folder with a timestamp. This makes it possible to keep
 
 I also added a cron job to run the backup script once every hour. The script writes the results to a log file.
 
+I verified two successful automatic cron backups on November 22, 2026, at 18:00 and 19:00 Finnish time.
+
+I also confirmed that Server B contains four timestamped backup directories in /srv/backups/server-a/.
+
 Restore Test
 
 I tested restoring a file from one of the backups.
