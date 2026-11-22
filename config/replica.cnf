@@ -1,0 +1,4 @@
+[mariadbd]
+server_id = 2
+read_only = ON
+relay_log = mariadb-relay-bin

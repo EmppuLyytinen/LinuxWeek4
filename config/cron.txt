@@ -1,0 +1,1 @@
+0 * * * * /usr/bin/bash /home/ubuntu/week4-backup.sh
