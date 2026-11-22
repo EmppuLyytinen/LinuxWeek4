@@ -68,7 +68,8 @@ Restoring a file from a backup
 
 Services and replication after rebooting server B
 
-I also configured automatic hourly backups with cron. The automatic runs still need to be checked separately from the manual tests.
+I also configured automatic hourly backups with cron.
+
 Hehhllo :)
 
 ## Problems and what i learned
